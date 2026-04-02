@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Node (agar frontend hai)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
